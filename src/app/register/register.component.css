@@ -1,0 +1,13 @@
+.form1 {
+  background-color: bisque;
+  font-size: large;
+  margin: auto;
+  width: 50%;
+  border: 3px solid rgb(2, 0, 128);
+  padding: 10px;
+}
+
+input {
+  margin: 10px;
+  padding: 5px;
+}
